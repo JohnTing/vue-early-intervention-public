@@ -1,1 +1,0 @@
-import{g as s,p as r,r as n}from"./index.esm2017.85141b39.js";import{d as o}from"./index.c61d69bc.js";const c=o({__name:"TestView",setup(p){function a(e){const t=s();r(n(t,"register/"),{jsondata:e})}return a({a:"b"}),(e,t)=>null}});export{c as default};
