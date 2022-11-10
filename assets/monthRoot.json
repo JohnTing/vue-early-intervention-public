@@ -1,7 +1,7 @@
 {
     "assets/month04.json": {
         "title": "4個月（3個月16天 ~ 5個月15天）",
-        "min": 106,
+        "min": 0,
         "max": 165
     },
     "assets/month06.json": {
@@ -63,6 +63,6 @@
     "assets/month60.json": {
         "title": "6歲（5歲11個月16天 ~ 6歲11個月15天）",
         "min": 2161,
-        "max": 2520
+        "max": 12520
     }
 }
